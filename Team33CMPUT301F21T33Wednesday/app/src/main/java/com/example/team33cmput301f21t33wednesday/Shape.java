@@ -1,6 +1,6 @@
 package com.example.team33cmput301f21t33wednesday;
 
-public class Shape {
+public abstract class Shape {
     private int x;
     private int y;
     private String colour;
