@@ -1,10 +1,10 @@
 package com.example.team33cmput301f21t33wednesday;
 
-public class Star extends Shape {
-    private int points;
+public class Octagon extends Shape {
+    private int sides;
 
-    public Star(int points) {
+    public Octagon(int sides) {
         super();
-        this.points = points;
+        this.sides = sides;
     }
 }

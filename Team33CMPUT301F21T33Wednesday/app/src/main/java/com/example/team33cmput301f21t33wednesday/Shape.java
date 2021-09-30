@@ -3,7 +3,7 @@ package com.example.team33cmput301f21t33wednesday;
 public class Shape {
     private int x;
     private int y;
-    private String colour;
+    private String colour = "green";
 
     public void Shape (int x, int y, String color){
         this.x = x;
