@@ -5,7 +5,7 @@ public class Shape {
     private int y;
     private String colour;
 
-    public void Shape (int x, int y, String color){
+    public Shape(int x, int y, String color){
         this.x = x;
         this.y = y;
         this.colour = colour;
