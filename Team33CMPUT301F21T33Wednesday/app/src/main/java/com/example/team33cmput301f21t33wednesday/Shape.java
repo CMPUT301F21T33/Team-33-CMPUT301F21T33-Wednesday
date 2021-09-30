@@ -5,7 +5,7 @@ public abstract class Shape {
     private int y;
     private String colour = "$PUT_YOUR_CHOICE_OF_COLOR";
 
-    public void Shape (int x, int y, String color){
+    public Shape(int x, int y, String color){
         this.x = x;
         this.y = y;
         this.colour = colour;
